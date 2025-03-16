@@ -89,4 +89,4 @@ This project is licensed under the MIT License.
 
 ---
 📌 **Author:** Nilesh Yadav
-📌 **GitHub:** [Your GitHub Profile](https://github.com/nilesh896)
+📌 **GitHub:** [Your GitHub Profile](https://github.com/Nilesh896)
