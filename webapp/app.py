@@ -9,7 +9,7 @@ import plotly.graph_objects as go
 app = Flask(__name__)
 
 # Load the trained model (expects 3 features: test preparation, reading score, writing score)
-model_path = os.path.join('..', 'model', 'student_performance_model.pkl')
+model_path = 'webapp/student_performance_model.pkl'
 model = joblib.load(model_path)
 
 @app.route('/')
